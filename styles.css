@@ -1,0 +1,85 @@
+.Home {
+  background-color: #a43838;
+  height: 90%;
+  width: 100%;
+}
+
+body {
+  padding: 0;
+  margin: 0 0 0 0;
+}
+
+h3 {
+  font-size: 18px;
+  color: #ffffff;
+  margin: 0;
+  height: 0;
+  text-align: center;
+  position: relative;
+  right: 400px;
+  top: 200px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  font-size: 50px;
+  color: #ffffff;
+  height: 0;
+  font-family: 'Baloo 2', cursive;
+  line-height: 60px;
+  text-align: center;
+  position: relative;
+  right: 400px;
+  top: 250px;
+}
+
+.GoalText {
+  font-size: 50px;
+  color: #424242;
+  height: 0;
+  font-family: 'Baloo 2', cursive;
+  position: relative;
+  top: 150px;
+  left: 90px;
+}
+
+.HomeImg {
+  margin-left: 50%;
+  position: relative;
+  bottom: 50px;
+  width: 50%;
+}
+
+.card {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 0;
+  margin-right: 0;
+  padding: 18px 18px 18px 18px;
+  position: relative;
+  left: 53%;
+  bottom: 280px;
+}
+
+.GoalImage {
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+  position: relative;
+  top: 150px;
+  left:100px;
+  width:20%;
+}
+
+.card-title {
+  font-family: 'Baloo 2', cursive;
+}
+
+.card-text {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.Overview{
+  height: 800px;
+  margin-bottom: 20px;
+}
+
